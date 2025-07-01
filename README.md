@@ -2,4 +2,4 @@
 - 👀 I’m interested mainly in Java Projects
 - 🌱 I’m currently learning Spark and other data processing frameworks :)
 - 💞️ I’m looking to collaborate on interesting projects in various domains
-- 📫 How to reach me https://twitter.com/maximilionm
+- 📫 How to reach me https://x.com/FajriMoad
